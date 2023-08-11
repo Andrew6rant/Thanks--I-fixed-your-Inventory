@@ -1,0 +1,14 @@
+{
+  "tifyi.midnightconfig.title": "Thanks, I fixed your Inventory",
+  "tifyi.midnightconfig.immediate": "The following changes are applied immediately",
+  "tifyi.midnightconfig.playerRenderX": "Player Inventory Render X",
+  "tifyi.midnightconfig.playerRenderY": "Player Inventory Render Y",
+  "tifyi.midnightconfig.slotHighlightColorAARRGGBB": "Slot Highlight Color (#AARRGGBB)",
+  "tifyi.midnightconfig.reloadWorld": "The following changes require you to exit and rejoin a world",
+  "tifyi.midnightconfig.offhandSlotX": "Offhand Slot X",
+  "tifyi.midnightconfig.offhandSlotY": "Offhand Slot Y",
+  "tifyi.midnightconfig.craftingResultSlotX": "Crafting Result Slot X",
+  "tifyi.midnightconfig.craftingResultSlotY": "Crafting Result Slot Y",
+  "tifyi.midnightconfig.craftingInputSlotsX": "Crafting Input Slots X",
+  "tifyi.midnightconfig.craftingInputSlotsY": "Crafting Input Slots Y"
+}
